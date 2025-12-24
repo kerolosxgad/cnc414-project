@@ -38,11 +38,6 @@ env/
 logs/
 forensic_analysis.log
 
-# Outputs
-outputs/*.txt
-outputs/*.csv
-outputs/*.pcap
-
 # Test files
 test_captures/
 *.pcap

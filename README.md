@@ -331,8 +331,6 @@ cnc414-project/
 ├── data/                  # Configuration data
 │   └── safe_domains.txt  # Trusted domains list
 │
-├── outputs/               # Generated reports (created at runtime)
-│
 └── logs/                  # Application logs (created at runtime)
 ```
 

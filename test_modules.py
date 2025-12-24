@@ -81,7 +81,7 @@ def test_directory_structure():
     """Test that required directories exist."""
     print("\nTesting directory structure...")
     
-    required_dirs = ['src', 'data', 'outputs', 'logs', 'docs']
+    required_dirs = ['src', 'data', 'logs', 'docs']
     all_ok = True
     
     for dir_name in required_dirs:
