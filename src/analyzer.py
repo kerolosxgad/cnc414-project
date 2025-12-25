@@ -1,15 +1,3 @@
-"""
-Network Packet Investigator - Analysis Module
-
-Description:
-    This module performs forensic analysis on extracted packet data.
-    It aggregates information, computes statistics, and prepares data
-    for detection algorithms and visualization.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 from collections import Counter, defaultdict
 from typing import Dict, List, Any, Tuple
 import logging

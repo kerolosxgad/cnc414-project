@@ -1,15 +1,3 @@
-"""
-Network Packet Investigator - PCAP Parser Module
-
-Description:
-    This module handles the parsing of PCAP files to extract network packets
-    for forensic analysis. It provides functionality to read PCAP files and
-    extract relevant packet information without relying on external forensic tools.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 from scapy.all import rdpcap, IP, TCP, UDP, DNS, Raw, ICMP
 from scapy.layers.http import HTTPRequest, HTTP
 import logging

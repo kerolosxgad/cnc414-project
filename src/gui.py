@@ -1,15 +1,3 @@
-"""
-Network Packet Investigator - GUI Module
-
-Description:
-    This module provides a cross-platform graphical user interface for the
-    Network Packet Investigator forensic tool using Tkinter. It includes
-    tabs for different analysis views, charts, and result visualization.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 import matplotlib.pyplot as plt

@@ -1,15 +1,3 @@
-"""
-Network Packet Investigator - Detection Module
-
-Description:
-    This module implements forensic detection algorithms to identify
-    suspicious network activity including phishing attempts, data exfiltration,
-    DNS tunneling, and other indicators of compromise.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 from typing import Dict, List, Any, Set
 import logging
 import os

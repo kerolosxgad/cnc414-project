@@ -1,12 +1,3 @@
-"""
-Network Packet Investigator - Module Tests
-
-Simple test script to verify all modules can be imported
-and basic functionality works.
-
-Run: python test_modules.py
-"""
-
 import sys
 import os
 

@@ -1,15 +1,3 @@
-"""
-Network Packet Investigator - Reporting Module
-
-Description:
-    This module generates forensic reports in multiple formats (CSV, TXT, PDF).
-    Reports include case information, findings, indicators of compromise,
-    and analyst conclusions following forensic best practices.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 import csv
 import os
 from datetime import datetime

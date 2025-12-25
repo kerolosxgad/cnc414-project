@@ -1,14 +1,3 @@
-"""
-Network Packet Investigator - Main Entry Point
-
-Description:
-    Main entry point for the Network Packet Investigator forensic tool.
-    Launches the GUI application for cross-platform network forensics analysis.
-
-Author: Digital Forensics Team
-Date: December 23, 2025
-"""
-
 import sys
 import os
 import logging

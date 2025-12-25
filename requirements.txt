@@ -1,6 +1,3 @@
-# Network Packet Investigator - Requirements
-# Python packages required for cross-platform forensic analysis
-
 # Core network packet analysis
 scapy>=2.5.0
 
