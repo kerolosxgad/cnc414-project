@@ -73,7 +73,7 @@ Network Packet Investigator is a Python-based, cross-platform digital forensics 
 
 2. **Install Dependencies**
    ```cmd
-   cd cnc414-project
+   cd pcap-investigator
    python -m pip install --upgrade pip
    pip install -r requirements.txt
    ```
@@ -100,7 +100,7 @@ Network Packet Investigator is a Python-based, cross-platform digital forensics 
 
 2. **Clone or Navigate to Project**
    ```bash
-   cd cnc414-project
+   cd pcap-investigator
    ```
 
 3. **Install Dependencies**
@@ -132,7 +132,7 @@ Network Packet Investigator is a Python-based, cross-platform digital forensics 
 
 3. **Navigate to Project and Install Requirements**
    ```bash
-   cd cnc414-project
+   cd pcap-investigator
    pip3 install -r requirements.txt
    ```
 
@@ -155,7 +155,7 @@ Network Packet Investigator is a Python-based, cross-platform digital forensics 
 
 3. **Navigate to Project and Install Requirements**
    ```bash
-   cd cnc414-project
+   cd pcap-investigator
    pip3 install -r requirements.txt
    ```
 
@@ -314,7 +314,7 @@ sudo tcpdump -i any -w test_capture.pcap -c 1000
 ### Project Structure
 
 ```
-cnc414-project/
+pcap-investigator/
 ├── main.py                 # Application entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
